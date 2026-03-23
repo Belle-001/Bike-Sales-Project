@@ -1,18 +1,25 @@
 # Bike-Sales-Project
 
 ## Table of Contents
-1. [Project Overview](Project-Overview)
-2. [Objectives](Objectives)
-3. [Dataset Description](DatasetDescription)
-4. [Tools and Skills Used](ToolsandSkillsUsed)
-5. [Data Cleaning Process](Datacleaningprocess)
-6. [Results](Results)
-7. [Recommendation](Recommendation)
-8. [Key Takeaway](KeyTakeaway)
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Dataset Description](#dataset-description)
+- [Tools and Skills Used](#tools-and-skills-used)
+- [Data Cleaning Process](#data-cleaning-process)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Key Takeaways](#key-takeaways)
+
 
 ### Project Overview
 
 This project focuses on analyzing bike sales data using Microsoft Excel to uncover customer purchasing patterns and key business insights. The goal was to transform raw sales data into a structured, interactive dashboard that supports data-driven decision-making.
+
+![Bike Sales Chart](images/chart.png)
+
+<img width="1339" height="476" alt="Bike chart" src="https://github.com/user-attachments/assets/b7309b64-d675-41a1-9ff1-46ee77f87c3f" />
+
+
 
 ### Objectives
 
