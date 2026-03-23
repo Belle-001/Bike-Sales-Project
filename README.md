@@ -15,7 +15,7 @@
 
 This project focuses on analyzing bike sales data using Microsoft Excel to uncover customer purchasing patterns and key business insights. The goal was to transform raw sales data into a structured, interactive dashboard that supports data-driven decision-making.
 
-![Bike Sales Chart](images/chart.png)
+![Bike Sales Dashboard](images/chart.png)
 
 <img width="1339" height="476" alt="Bike chart" src="https://github.com/user-attachments/assets/b7309b64-d675-41a1-9ff1-46ee77f87c3f" />
 
@@ -73,3 +73,5 @@ Invest in marketing and promotion to  married middle age people with shorter com
 - Strengthened skills in data cleaning, transformation, and visualization
 - Applied analytical thinking to solve real-world business problems
 
+### References
+1. [AlextheAnalyst](https://youtu.be/opJgMj1IUrc?si=k63Q9ciMr54radZp)
