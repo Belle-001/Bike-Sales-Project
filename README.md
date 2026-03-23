@@ -74,4 +74,4 @@ Invest in marketing and promotion to  married middle age people with shorter com
 - Applied analytical thinking to solve real-world business problems
 
 ### References
-1. [AlextheAnalyst](https://youtu.be/opJgMj1IUrc?si=k63Q9ciMr54radZp)
+-  [AlextheAnalyst](https://youtu.be/opJgMj1IUrc?si=k63Q9ciMr54radZp)
